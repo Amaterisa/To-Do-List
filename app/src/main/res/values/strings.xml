@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="delete">Delete</string>
+    <string name="clear_all">Clear all</string>
+    <string name="title_dummy">Do this</string>
+    <string name="title">Title</string>
+    <string name="created_date_dummy">Created date: 25/06/2020</string>
+    <string name="description_dummy">Description on what to to in this item from the list, it can be empty or it can contains a lot of text that should be displayed</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="no_items">No Items</string>
+    <string name="add_new_to_do">Add new to do</string>
+</resources>
